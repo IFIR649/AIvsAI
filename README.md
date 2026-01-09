@@ -24,7 +24,7 @@ It supports both **White-box** (gradient-based) and **Black-box** (logic/evoluti
 ```bash
 # Clone the repository
 git clone https://github.com/IFIR649/AIvsAI
-cd llm-adversarial-audit
+cd AIvsAI
 
 # Install dependencies
 pip install torch transformers requests termcolor
