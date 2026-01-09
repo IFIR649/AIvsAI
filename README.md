@@ -23,7 +23,7 @@ It supports both **White-box** (gradient-based) and **Black-box** (logic/evoluti
 
 ```bash
 # Clone the repository
-git clone [https://github.com/yourusername/llm-adversarial-audit.git](https://github.com/IFIR649/AIvsAI)]
+git clone https://github.com/IFIR649/AIvsAI
 cd llm-adversarial-audit
 
 # Install dependencies
